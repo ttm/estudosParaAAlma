@@ -25,11 +25,11 @@ eu e mamãe somos um só.
 ## Anotações
 
 > És do tamanho do céu
-
+>
 > E apenas menor do que Deus!
 > - Mario Quintana
 
 > Você é o mais lindo presente de Deus para mim.
-
+>
 > Eu quero ser uma dádiva de Deus pra você.
 > - Desconhecido
