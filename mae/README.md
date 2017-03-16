@@ -21,3 +21,9 @@ ela rezando comigo e com meus na cama,
 ela sempre ligando e mandando mensagens,
 breguice,
 eu e mamãe somos um só.
+
+## Anotações
+
+> És do tamanho do céu
+E apenas menor do que Deus!
+> - Mario Quintana
