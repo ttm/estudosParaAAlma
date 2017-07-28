@@ -40,5 +40,15 @@ e/ou computador.
 * Encontrar melodias, tocar e cantar no ukulelê.
 * Musicar algoritmos, teorias, medidas.
 * Musicar teorias malucas (e.g. da minhoca).
+* Musicar manifestos e causes políticas (e.g. democaracia direta, participação social)
+* Fazer música punk erudita contemporânea
+  - Usar recursos toscos mas bem funcionais
+  - "paixão mais potente que o instrumento"
+  - pesquisar sobre a música punk
+* Fazer música pop erudita contemporânea
+  - Usar sons de jogos (street fighter, qbert, mario, etc)
+  - Usar sons de comunicadores (wapp, fb, etc) e celular (e.g. toques, dispertadores)
+  - Usar músicas pop
+
 
 
