@@ -49,6 +49,8 @@ e/ou computador.
   - Usar sons de jogos (street fighter, qbert, mario, etc)
   - Usar sons de comunicadores (wapp, fb, etc) e celular (e.g. toques, dispertadores)
   - Usar músicas pop
+* Serialismo integral com a MASSA (ou outro software) já que agora isso é possível
+* Serialismo integral com permutações e grupos
 
 
 
