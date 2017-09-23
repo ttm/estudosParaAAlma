@@ -51,6 +51,18 @@ e/ou computador.
   - Usar músicas pop
 * Serialismo integral com a MASSA (ou outro software) já que agora isso é possível
 * Serialismo integral com permutações e grupos
+* Fazer uma versão dos contos-livros como screencasts, 5 min para cada ou menos.
+Fazer com figuras abertas no browser (salvar as páginas/figuras como conjuntos de bookmarks).
+Talvez deixar o terminal na frente com o texto, o terminal transparente.
+Incluir prefácio em que explico que são construções semi-ficcionais,
+idealizadas para livros ou contos, o formato escolhido de apresentação,
+que há versões em português e inglês.
+Repassar e.g. p o Bernhard para revisão do inglês e para ver
+se ele ou Christina querem fazer outras versões.
+Subir como albuns do Youtube e do Facebook.
+* Fazer versões de músicas feitas com a MASSA em que o código é
+exposto no terminal (talvez transparente com fundos) e em que acompanho
+a música selecionando partes do código.
 
 
 
