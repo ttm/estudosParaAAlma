@@ -40,6 +40,9 @@ e/ou computador.
 * Encontrar melodias, tocar e cantar no ukulelê.
 * Musicar algoritmos, teorias, medidas.
 * Musicar teorias malucas (e.g. da minhoca).
+* Puxar Luis (Tiru) para pensar nas letras, avaliar músicas, etc.
+* Pensar em versões eletrônicas com MASS e Espeak (tvz vocalizer)
+e versões mais acústicas.
 * Musicar manifestos e causes políticas (e.g. democaracia direta, participação social)
 * Fazer música punk erudita contemporânea
   - Usar recursos toscos mas bem funcionais
@@ -57,9 +60,14 @@ Talvez deixar o terminal na frente com o texto, o terminal transparente.
 Incluir prefácio em que explico que são construções semi-ficcionais,
 idealizadas para livros ou contos, o formato escolhido de apresentação,
 que há versões em português e inglês.
+Em francês? (Daniel?), em alemão? (Bernhard?),
+espanhol? (Fernando Gularte?).
+Outras línguas?
 Repassar e.g. p o Bernhard para revisão do inglês e para ver
 se ele ou Christina querem fazer outras versões.
 Subir como albuns do Youtube e do Facebook.
+Talvez, além do prefácio, fazer um vídeo com spoiler (contando uma sinópse de cada estória).
+
 * Fazer versões de músicas feitas com a MASSA em que o código é
 exposto no terminal (talvez transparente com fundos) e em que acompanho
 a música selecionando partes do código.
