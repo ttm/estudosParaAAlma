@@ -72,5 +72,33 @@ Talvez, além do prefácio, fazer um vídeo com spoiler (contando uma sinópse d
 exposto no terminal (talvez transparente com fundos) e em que acompanho
 a música selecionando partes do código.
 
+* Música ritmada. A linha aguda imita a fala, como no rap:
+repete a mesma nota, com flutuações eventuais e terminações
+com terça descendente:
+	https://www.youtube.com/watch?v=JuE1e5WGURo&list=UU9O65XDz9vi56AuPlTy7nDA
+
+* Suitezinha
+  - Padrãozinho
+  - Desenhinho
+  - Canonezinho
+  - Poeminha
+  - Codazinha
+
+* Usar de material, bandas de freq diferentes em cada canal/ouvido:
+  - https://youtu.be/DjvBzxvkEhQ?t=2m24s
+
+* Fazer um funk com massa e ecantorix:
+  - https://www.youtube.com/watch?v=zZO6TDdTBBUf
+
+* Album em homenagem ao Moodog e/ou outros caras.
+Usar os ritmos em 5 q ele faz:
+https://www.youtube.com/watch?v=VMY_kwQQmmI
+8 = 3+5(3+2)
+
+* Musicar o Skank in the air: com massa e vocalizer.
+https://youtu.be/A9QU5-9DFC4
+
+* Fazer scratch como neste:
+  - https://youtu.be/p3_UlFMXxaU
 
 
