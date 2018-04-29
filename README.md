@@ -101,4 +101,9 @@ https://youtu.be/A9QU5-9DFC4
 * Fazer scratch como neste:
   - https://youtu.be/p3_UlFMXxaU
 
+* Fazer disco de Dub com MASSA p tocar/cantar ao vivo:
+  - Copiar/inspirar-se em: https://www.youtube.com/watch?v=S9UH0JOVsLk
+  - Letras em ingles, português, e toki pona
+  - Imitar o trocadilho do Caleb: one man band -> one mad band:
+    * one can, pan, ban, tan, jam, nan, van, gan, fan, ran, band
 
