@@ -107,3 +107,4 @@ https://youtu.be/A9QU5-9DFC4
   - Imitar o trocadilho do Caleb: one man band -> one mad band:
     * one can, pan, ban, tan, jam, nan, van, gan, fan, ran, band
 
+
