@@ -34,10 +34,10 @@ def mkBin(fl=[200], fr=[240], a=[.8], aa=.8, t=10, fname='binaural', sr=44100, f
     os.system('rm ' + fname + '_.wav')
 
 mkBin(
-    [30],
-    [30.2],
-    [1, .8, .6, .4, .2],
-    fname='saw0.2hz01',
+    [80],
+    [120],
+    [1],
+    fname='saw30hz80hz',
     sr=192000,
     form='saw'
 )
