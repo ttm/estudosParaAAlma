@@ -1,33 +1,33 @@
-USE DFLIB
+! USE DFLIB
 CALL graphicsmode()
 Call Zorax()
 END
 SUBROUTINE graphicsmode()
-  USE DFLIB
-  LOGICAL modestatus
-  INTEGER(2) maxx, maxy
-  TYPE (windowconfig) myscreen
-  COMMON maxx, maxy
-  ! Set highest resolution graphics mode.
-  myscreen.numxpixels=-1
-  myscreen.numypixels=-1
-  myscreen.numtextcols=-1
-  myscreen.numtextrows=-1
-  myscreen.numcolors=-1
-  myscreen.fontsize=-1
-  myscreen.title = " "C ! blank
-  modestatus=SETWINDOWCONFIG(myscreen)
-  ! Determine the maximum dimensions.
-  modestatus=GETWINDOWCONFIG(myscreen)
-  maxx=myscreen.numxpixels - 1
-  maxy=myscreen.numypixels - 1
+  ! USE DFLIB
+  !LOGICAL modestatus
+  !INTEGER(2) maxx, maxy
+  !TYPE (windowconfig) myscreen
+  !COMMON maxx, maxy
+  !! Set highest resolution graphics mode.
+  !myscreen.numxpixels=-1
+  !myscreen.numypixels=-1
+  !myscreen.numtextcols=-1
+  !myscreen.numtextrows=-1
+  !myscreen.numcolors=-1
+  !myscreen.fontsize=-1
+  !myscreen.title = " "C ! blank
+  !modestatus=SETWINDOWCONFIG(myscreen)
+  !! Determine the maximum dimensions.
+  !modestatus=GETWINDOWCONFIG(myscreen)
+  !maxx=myscreen.numxpixels - 1
+  !maxy=myscreen.numypixels - 1
   END
   Subroutine zorax()
-    USE DFLIB
+    ! USE DFLIB
     dimension x1(65536),y1(65536),ix1(65536),iy1(65536)
     integer*2 dummy, xl, yl, x2, y2, i, xk, yk, ix1, iy1
     integer*4 ncolor,dummy4,rgb,ired,igreen,iblue
-    RECORD /xycoord/ xy
+    !RECORD /xycoord/ xy
     pii=3.14159
     ndim=8
     ang=180./float(ndim)
@@ -153,10 +153,10 @@ SUBROUTINE graphicsmode()
     84 dummy=lineto(ix1(k14+2**15),iy1(k14+2**15))
     100 continue
     Read(*,*) ! Wait for enter to be pressed
-    dummy=setvideomode($DEFAULTMODE)
+    !dummy=setvideomode($DEFAULTMODE)
     END
-    integer*4 function rgb(r,g,b)
-      integer*4 r,g,b
-      rgb=ishl( ishl( b,8) .or. g,8) .or. r
-      return
-      end
+    !integer*4 function rgb(r,g,b)
+    !  integer*4 r,g,b
+    !  rgb=ishl( ishl( b,8) .or. g,8) .or. r
+    !  return
+    !  end
