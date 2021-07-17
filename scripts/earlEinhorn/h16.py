@@ -1,14 +1,14 @@
 import cairo
 import numpy as n
 
-WIDTH, HEIGHT = 2 ** 12, 2 ** 12
+WIDTH, HEIGHT = 2 ** 13, 2 ** 13
 # surface = cairo.SVGSurface('fooearl.svg', WIDTH, HEIGHT)
 surface = cairo.ImageSurface(cairo.FORMAT_RGB24, WIDTH, HEIGHT)
 ctx = cairo.Context(surface)
 # ctx.scale(WIDTH, HEIGHT)  # Normalizing the canvas
 # ctx.set_source_rgb(0.3, 0.2, 0.5)  # Solid color
 ctx.set_source_rgb(1, 1, 1)  # Solid color
-ctx.set_line_width(0.2)
+ctx.set_line_width(0.1)
 
 def moveto(x, y):
     ctx.move_to(x, y)
@@ -24,7 +24,7 @@ y1 = n.zeros(2 ** 16)
 ix1 = n.zeros(2 ** 16)
 iy1 = n.zeros(2 ** 16)
 
-ndim=9
+ndim=3
 ang=180./float(ndim)
 if ndim % 4 == 0:
     ang=45.
@@ -40,7 +40,7 @@ scale=220.
 scal1=220.
 
 for k in range(ndim):
-    l = 2 ** (k)
+    l = 2 ** k
     for j in range(int(l)):
         deg = float(k) * ang * n.pi / 180.
         x1[l + j] = x1[j] + n.cos(deg) * scal1
